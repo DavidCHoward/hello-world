@@ -1,2 +1,2 @@
 # hello-world
-Seulement une répositoire en plus
+Seulement un entrepôt en plus :)
